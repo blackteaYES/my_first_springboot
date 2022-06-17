@@ -110,7 +110,7 @@
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
-			<version>1.2.47</version>
+			<version>1.2.83</version>
 		</dependency>
 		<!-- 导入配置文件处理器，在配置springboot相关文件时候会有提示(本项目不需要,yaml文件提示) -->
 		<dependency>
